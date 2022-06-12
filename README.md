@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Piyush Burate
-- 👀 I’m interested to learn something new.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on new web dev projects.
-- 📫 How to reach me : 
-      > Insta - @piyush.burate
-      > FB - @piyush.burate.71
+- 👀 I’m always interested to learn something new.
+- 🌱 I’m currently learning App Development (Java).
+- 💞️ I’m looking to collaborate on new projects.
+- 📫 How to reach me :
+     > Instagram - @piyush.burate
+     > Facebook - @piyush.burate.71
